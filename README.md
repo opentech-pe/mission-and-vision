@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="public/assets/img/name.png" width="320" alt="OpenTech" />
+</p>
 # MISIÓN Y VISIÓN DE OPENTECH 💙
 
 ## MISION
@@ -28,8 +31,9 @@ Nuestra visión es consolidarnos como una comunidad con presencia en todo el pa�
 
 Se que nos espera un camino largo y quizás agotador, pero estamos dispuestos a mantener la comunidad en pie, y ayudar a personas talentosas, quizás con algún nuevo theme para su VSCode quien sabe y usan algo distinto al VSCode, *que importa!*
 
-Si te animas a dar una charla puedes proponer una desde este enlace, que te redireccionará al github donde [tendrás un template](Link de github template), [o puedes escribirnos al correo para seguir conversando.](Link de correo electronico del encargado.)
+Si te animas a dar una charla puedes proponer una desde este enlace, que te redireccionará al github donde tendrás un    
+[template](https://github.com/opentech-pe/opentech.pe/issues/new?assignees=jhonfitzgerald%2C+paulotijero%2C+manuelrojasc&labels=cfp&template=propuesta-de-charla.md&title=Título+de+tu+charla+.+.+.), o puedes escribirnos al [correo](paulotijero@gmail.com) para seguir conversando.
 
-Nuestro equipo y más personas se encuentran en Slack, y es ahí donde compartimos blogs, cursos, artículos y muchas cosas mas, [unete a nuestr](link de slack)o Slack y a nuestro Facebook, tratamos de estar siempre conectados.
+Nuestro equipo y más personas se encuentran en Slack, y es ahí donde compartimos blogs, cursos, artículos y muchas cosas mas, unete a nuestro [slack](https://hola-opentech.herokuapp.com/) y a nuestro [facebook](https://www.facebook.com/OpenTechTM), tratamos de estar siempre conectados.
 
 Saludos y un gran abrazo para todo aquel que lo necesite!
