@@ -1,6 +1,7 @@
 <p align="center">
   <img src="public/assets/img/name.png" width="320" alt="OpenTech" />
 </p>
+
 # MISIÓN Y VISIÓN DE OPENTECH 💙
 
 ## MISION
