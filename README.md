@@ -4,7 +4,7 @@
 
 # MISIÓN Y VISIÓN DE OPENTECH 💙
 
-## MISION
+## MISIÓN
 
 Somos un grupo de personas apasionadas por la tecnología de diferentes lugares de Perú, que nos gusta compartir conocimientos, experiencias y ayudarnos entre nosotros, hemos visto la gran necesidad que hay, en descentralizar la información sobre tecnología y la infinidad de oportunidades que hay en el sector tecnológico disminuyendo así la brecha de oportunidades que hay en las regiones del interior de nuestro Perú
 
