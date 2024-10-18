@@ -55,6 +55,6 @@ Se que nos espera un camino largo y quizás agotador, pero estamos dispuestos a 
 
 Si te animas a dar una charla puedes proponer una desde este enlace, que te redireccionará al github donde tendrás un [template](https://github.com/opentech-pe/opentech.pe/issues/new?assignees=jhonfitzgerald%2C+paulotijero%2C&labels=cfp&template=propuesta-de-charla.md&title=Título+de+tu+charla+.+.+.), o puedes escribirnos al [correo](paulotijero@gmail.com) para seguir conversando.
 
-Nuestro equipo y más personas se encuentran en Slack, y es ahí donde compartimos blogs, cursos, artículos y muchas cosas mas, unete a nuestro [slack](https://hola-opentech.herokuapp.com/) y a nuestro [facebook](https://www.facebook.com/OpenTechTM), tratamos de estar siempre conectados.
+Nuestro equipo y más personas se encuentran en Discord, y es ahí donde compartimos blogs, cursos, artículos y muchas cosas más, unete al [Discord](https://discord.gg/g7xAJDC4) y al [facebook](https://www.facebook.com/OpenTechTM), tratamos de estar siempre conectados.
 
 Saludos y un gran abrazo para todo aquel que lo necesite!
